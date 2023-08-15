@@ -23,7 +23,7 @@ The Quiz2Me app can be useful for students looking to test their knowledge, prof
 ## How to Run
 To run the Quiz2Me-App, follow these steps:
 
-Clone the project to your local machine using git clone https://github.com/Shakeelkhuhro/Quiz2Me-App.git.<br>
+Clone the project to your local machine using git clone https://github.com/Shakeelkhuhro/Quiz2Me-App.git.
 Open the project in your preferred Java IDE.<br>
 Run the Main.java file to launch the app.<br>
 Once the app is launched, select the category you want to play the quiz in.<br>
